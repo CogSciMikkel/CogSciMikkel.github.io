@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mikkel Krøjer Svendsen"
+  llms-txt: true
+  navbar:
+    left:
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ksmikkel
+      - icon: github
+        href: https://github.com/CogSciMikkel
+      - icon: envelope
+        href: mailto:mikkelks@pm.me
+  search: false
+  page-footer:
+    center: 
+      - text: "Mikkel Krøjer Svendsen"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ksmikkel
+      - icon: github
+        href: https://github.com/CogSciMikkel
+      - icon: envelope
+        href: mailto:mikkelks@pm.me
+    right: Made with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true

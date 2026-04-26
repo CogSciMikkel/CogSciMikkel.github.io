@@ -1,0 +1,12 @@
+---
+title: 404. Great.
+---
+
+My CV website has exactly two pages. Yet, you somehow found a third. I'm not sure what that says about either of us, but I suspect it isn't any good.
+
+Anyway, I hope you were looking for [my CV](cv.qmd) or [my projects](projects.qmd).
+
+
+
+
+... and *yes*, this page was a procrastination project. How could you tell?
