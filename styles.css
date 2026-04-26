@@ -1,0 +1,35 @@
+/* css styles */
+
+code {
+    color: #F3969A;
+    border: 1px solid #F3969A;
+    border-radius: 4px;
+    padding: 2px 8px;
+    background-color: transparent;
+}
+
+dl {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 0.5rem 2rem;
+}
+
+dt {
+    color: var(--bs-secondary-color);
+    font-size: 0.9em;
+    padding-top: 2px;
+}
+
+dd {
+    margin: 0 0 0.6rem 0;
+    line-height: 1.6;
+}
+
+dd ul {
+    margin: 0.3rem 0 0.6rem 0;
+    padding-left: 1.2rem;
+}
+
+dd li {
+    margin-bottom: 0.2rem;
+}

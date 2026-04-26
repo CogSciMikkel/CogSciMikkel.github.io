@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of my academic and professional projects"
+  },
+  {
+    "objectID": "projects.html#bss-alumni-career-tracker",
+    "href": "projects.html#bss-alumni-career-tracker",
+    "title": "Projects",
+    "section": "BSS Alumni Career Tracker",
+    "text": "BSS Alumni Career Tracker\n2025-Present | Student Programmer | Aarhus University BSS\nBefore this project, BSS had no systematic record of where its graduates ended up. I built a generalizable and automated pipeline that constructs and maintains that record by collecting, extracting, and structuring career trajectory data for alumni across all BSS study programmes.\nThe pipeline loads alumni from administrative data, runs automated Google searches, and sends results to an LLM via the OpenAI API for structured attribute extraction. When a search yields no result, the pipeline refines its queries and retries. All data lives in a PostgreSQL database on UCloud.\nThe project started as a one-off analysis for Economics and Business Economics alumni and was expanded to all BSS programmes after positive reception from BSS leadership.\nStack: R | Python | PostgreSQL | OpenAI API | UCloud"
+  },
+  {
+    "objectID": "projects.html#framing-and-decision-dynamics",
+    "href": "projects.html#framing-and-decision-dynamics",
+    "title": "Projects",
+    "section": "Framing and Decision Dynamics",
+    "text": "Framing and Decision Dynamics\nSame Options, Different Struggles: How Framing Affects Decision Dynamics\n2026 | Perception and Action | Group Project\nWe examined how gain versus loss framing shapes real-time decision difficulty, even when options remain objectively equivalent. Grounded in prospect theory, we implemented a 2×2 within-subjects design and used mouse tracking to capture continuous decision dynamics.\nI was responsible for the full technical pipeline: programming the experimental procedure in PsychoPy, preprocessing high-resolution trajectory data, operationalising decision conflict using area under the curve, and analysing the data with linear mixed-effects models. We interpreted both significant and null effects within a dynamic perception-action framework.\nMethods: Mouse tracking | PsychoPy | Linear mixed-effects models"
+  },
+  {
+    "objectID": "projects.html#pain-tracking-app",
+    "href": "projects.html#pain-tracking-app",
+    "title": "Projects",
+    "section": "Pain Tracking App",
+    "text": "Pain Tracking App\nBridging Pain and Communication: A Mobile Implementation of Pain Assessments for Chronic Pain Self-Management\n2025 | Applied Cognitive Science | Group Project\nThis project grew out of my interest in how pain communication breaks down across language and cultural barriers. We developed a React-based pain tracking app to support more nuanced conversations between chronic pain patients and clinicians. We integrated validated pain assessment tools into an interface featuring daily check-ins, an interactive body map, and visualisations suited to users with varying health literacy levels.\nTwo of us shared the app development evenly. Inclusive design principles and health literacy considerations shaped key interface decisions throughout.\nMethods: React | Human-centred design | Inclusive design | Clinical pain measures"
+  },
+  {
+    "objectID": "projects.html#social-context-and-fear",
+    "href": "projects.html#social-context-and-fear",
+    "title": "Projects",
+    "section": "Social Context and Fear",
+    "text": "Social Context and Fear\nScream Together, Fear Together: How Communication Influences the Experience of Fear\n2024 | Cognition and Communication | Group Project\nWe investigated how different social contexts shape the subjective and physiological experience of fear. Participants watched a horror film either alone, with a silent co-viewer, or with a co-viewer they were encouraged to communicate with. The project group collected heart rate data and self-report responses across conditions, and I ran the statistical analysis linking communication to significantly increased physiological arousal without a corresponding rise in self-reported fear.\nThis dissociation suggests that social interaction intensifies bodily responses without necessarily altering subjective emotional experience.\nMethods: Heart rate monitoring | Self-report surveys | Experimental design | Biometric data analysis"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "",
+    "text": "Cognitive Science Student | Student Programmer\nAarhus University\nmikkelks@pm.me | +45 27 82 71 69 | Aarhus, Denmark\nLinkedIn | GitHub"
+  },
+  {
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "Profile",
+    "text": "Profile\nI am a Cognitive Science student with a background in Political Science, a combination that gives me a strong foundation in causal inference and research design alongside computational and behavioural methods. I work with multimodal data such as mouse-tracking, heart-rate measurements, and self-report data, and I use R, Python, and React to turn research questions into robust analyses and digital solutions. I am a curious and collaborative colleague who communicates clearly and works well across disciplines."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "Skills",
+    "text": "Skills\n\n\nProgramming\n\nR, Python\nPostgreSQL\nReact, HTML, CSS, JavaScript\nGit, PsychoPy, UCloud, SurveyXact\n\n\nLanguages\n\nDanish - Native\nEnglish - Fluent\nGerman - B2\nBornholmsk - Native (good for coffee-break jokes)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "Education",
+    "text": "Education\n\n2024–Present\n\nBSc in Cognitive Science (4th semester), Aarhus University\nFocus: Statistics and data analysis, programming and data science, machine learning, neuroscience, experimental design, Bayesian modelling, human cognition and behaviour\n Top grades (12): Applied Cognitive Science | Perception and Action | Introduction to Cognitive Science\n Surprisingly, some of these courses resulted in projects I’m actually quite proud of… check them out here!\n\n2021-2024\n\nBSc in Political Science, Aarhus University\nFocus: Quantitative and qualitative methods, statistics and causal inference, data-driven analysis, political behaviour, international politics and political theory\n Top grades (12): Methods II: Quantitative Methods | International Politics | Microeconomics | Political Behaviour | Political Sociology | Political Philosophy"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n2025-Present\n\nStudent Programmer, Aarhus University\n\nBuilt a full data pipeline from scratch to generate insights into alumni career. trajectories where no prior data existed, using R, Python, PostgreSQL, LLM APIs, and UCloud\nIterative development focused on maintainability, reproducibility, and version control\nStatistical analysis and visualisation of career trajectories to support decision-making for programme coordinators and prospective students alike\n\nInitially developed for Economics alumni, since expanded to all BSS programmes following positive reception from BSS leadership.\n\n2023-Present\n\nStudent Assistant, VIA University College\n\nResearch support across multiple interdisciplinary research centres and projects\nIndependent data collection, analysis, and literature reviews\nDesign of surveys and experiments in SurveyXact\nCollaboration on externally anchored projects with VIVE and Aalborg University\nTaught a researcher to use R from scratch\n\nContributed to a study on unemployment patterns among flexjob workers across Danish municipalities, including building a comparative dataset covering nearly all Danish job centres. The project resulted in a published book.\n\n2024\n\nPersonal Assistant, Aalborg University\nResearch assistance to a PhD project - data collection and qualitative analysis\n\n2021-2024\n\nGuest Speaker, Højskolerne\nPublic presentations in Danish and English, in-person and as webinars\n\n2019-2025\n\nSenior Mentor, MentorDanmark\nOne-on-one tutoring focused on clear communication and learning progression"
+  },
+  {
+    "objectID": "cv.html#volunteer-work",
+    "href": "cv.html#volunteer-work",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "Volunteer Work",
+    "text": "Volunteer Work\n\n2021-Present\n\nChairperson, Dorm Board, Christianshøj Kollegiet\n\nRepresentation of dorm residents in dialogue with the Aarhus Dorm Office\nCoordination of social and cultural activities from small events to large dorm festivals\nInitiatives to improve accessibility and inclusion within the dorm community"
+  },
+  {
+    "objectID": "cv.html#about-me",
+    "href": "cv.html#about-me",
+    "title": "Mikkel Krøjer Svendsen",
+    "section": "About Me",
+    "text": "About Me\nI have played guitar since childhood. Although this has not made me famous yet, I still value both the creative process and the social aspect of making music with others. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing."
+  }
+]

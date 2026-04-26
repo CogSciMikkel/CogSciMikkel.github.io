@@ -1,0 +1,6 @@
+# Mikkel Krøjer Svendsen
+
+## Pages
+
+- [Projects](projects.llms.md)
+- [Mikkel Krøjer Svendsen](cv.llms.md)
