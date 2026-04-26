@@ -2,5 +2,6 @@
 
 ## Pages
 
-- [Projects](projects.llms.md)
-- [Mikkel Krøjer Svendsen](cv.llms.md)
+- [Projects](https://CogSciMikkel.github.io/projects.llms.md)
+- [Mikkel Krøjer Svendsen](https://CogSciMikkel.github.io/cv.llms.md)
+- [index](https://CogSciMikkel.github.io/index.llms.md)
