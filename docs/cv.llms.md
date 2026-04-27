@@ -20,7 +20,7 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 **Programming**
 
-- R, Python
+- R, Python, Quarto
 - PostgreSQL
 - React, HTML, CSS, JavaScript
 - Git, PsychoPy, UCloud, SurveyXact
@@ -36,9 +36,9 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 ## Education
 
-2024–Present  
+2024-Present  
 **BSc in Cognitive Science** (4th semester), Aarhus University  
-*Focus:* Statistics and data analysis, programming and data science, machine learning, neuroscience, experimental design, Bayesian modelling, human cognition and behaviour  
+*Focus:* Human cognition and behaviour, statistical modelling, Bayesian inference, machine learning, and experimental design  
   
 *Top grades (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
   
@@ -46,7 +46,7 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 
 2021-2024  
 **BSc in Political Science**, Aarhus University  
-*Focus:* Quantitative and qualitative methods, statistics and causal inference, data-driven analysis, political behaviour, international politics and political theory  
+*Focus:* Causal inference, quantitative methods, and political behaviour  
   
 *Top grades (12):* Methods II: Quantitative Methods \| International Politics \| Microeconomics \| Political Behaviour \| Political Sociology \| Political Philosophy
 
@@ -101,4 +101,4 @@ One-on-one tutoring focused on clear communication and learning progression
 
 ## About Me
 
-I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative process and the social aspect of making music with others. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.
+I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.

@@ -53,14 +53,14 @@
     "href": "cv.html#skills",
     "title": "Mikkel Krøjer Svendsen",
     "section": "Skills",
-    "text": "Skills\n\n\nProgramming\n\nR, Python\nPostgreSQL\nReact, HTML, CSS, JavaScript\nGit, PsychoPy, UCloud, SurveyXact\n\n\nLanguages\n\nDanish - Native\nEnglish - Fluent\nGerman - B2\nBornholmsk - Native (good for coffee-break jokes)"
+    "text": "Skills\n\n\nProgramming\n\nR, Python, Quarto\nPostgreSQL\nReact, HTML, CSS, JavaScript\nGit, PsychoPy, UCloud, SurveyXact\n\n\nLanguages\n\nDanish - Native\nEnglish - Fluent\nGerman - B2\nBornholmsk - Native (good for coffee-break jokes)"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Mikkel Krøjer Svendsen",
     "section": "Education",
-    "text": "Education\n\n2024–Present\n\nBSc in Cognitive Science (4th semester), Aarhus University\nFocus: Statistics and data analysis, programming and data science, machine learning, neuroscience, experimental design, Bayesian modelling, human cognition and behaviour\n Top grades (12): Applied Cognitive Science | Perception and Action | Introduction to Cognitive Science\n Surprisingly, some of these courses resulted in projects I’m actually quite proud of… check them out here!\n\n2021-2024\n\nBSc in Political Science, Aarhus University\nFocus: Quantitative and qualitative methods, statistics and causal inference, data-driven analysis, political behaviour, international politics and political theory\n Top grades (12): Methods II: Quantitative Methods | International Politics | Microeconomics | Political Behaviour | Political Sociology | Political Philosophy"
+    "text": "Education\n\n2024-Present\n\nBSc in Cognitive Science (4th semester), Aarhus University\nFocus: Human cognition and behaviour, statistical modelling, Bayesian inference, machine learning, and experimental design\n Top grades (12): Applied Cognitive Science | Perception and Action | Introduction to Cognitive Science\n Surprisingly, some of these courses resulted in projects I’m actually quite proud of… check them out here!\n\n2021-2024\n\nBSc in Political Science, Aarhus University\nFocus: Causal inference, quantitative methods, and political behaviour\n Top grades (12): Methods II: Quantitative Methods | International Politics | Microeconomics | Political Behaviour | Political Sociology | Political Philosophy"
   },
   {
     "objectID": "cv.html#work-experience",
@@ -81,6 +81,6 @@
     "href": "cv.html#about-me",
     "title": "Mikkel Krøjer Svendsen",
     "section": "About Me",
-    "text": "About Me\nI have played guitar since childhood. Although this has not made me famous yet, I still value both the creative process and the social aspect of making music with others. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing."
+    "text": "About Me\nI have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing."
   }
 ]
