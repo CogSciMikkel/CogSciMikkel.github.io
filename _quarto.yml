@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mikkel Krøjer Svendsen"
+  favicon: assets\favicon_io\android-chrome-512x512.png
   llms-txt: true
   navbar:
     left:

@@ -38,7 +38,7 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 2024-Present  
 **BSc in Cognitive Science** (4th semester), Aarhus University  
-*Focus:* Human cognition and behaviour, statistical modelling, Bayesian inference, machine learning, and experimental design  
+*Focus:* Human cognition and behaviour, machine learning, statistical modelling, Bayesian inference, and experimental design  
   
 *Top grades (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
   
