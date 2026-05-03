@@ -55,7 +55,7 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 ## Work Experience
 
 2025-Present  
-**Student Programmer**, Aarhus University
+**Student Programmer**, Department of Economics and Business Economics, Aarhus University
 
 - Built a [full data pipeline](projects.llms.md) from scratch to generate insights into alumni career. trajectories where no prior data existed, using R, Python, PostgreSQL, LLM APIs, and UCloud
 - Iterative development focused on maintainability, reproducibility, and version control
@@ -64,7 +64,7 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 *Initially developed for Economics alumni, since expanded to all BSS programmes following positive reception from BSS leadership.*
 
 2023-Present  
-**Student Assistant**, VIA University College
+**Student Assistant**, Research Centre for Social Marginalisation, VIA University College
 
 - Research support across multiple interdisciplinary research centres and projects
 - Independent data collection, analysis, and literature reviews
@@ -75,7 +75,7 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 *Contributed to a study on unemployment patterns among flexjob workers across Danish municipalities, including building a comparative dataset covering nearly all Danish job centres. The project resulted in a [published book](https://hansreitzel.dk/soeg/fleksjob-og-arbejdsmarkedet-(vitalsource)-e-bog-(vitalsource)-59997-9788702452952).*
 
 2024  
-**Personal Assistant**, Aalborg University  
+**Personal Assistant**, Department of Society and Politics, Aalborg University  
 Research assistance to a PhD project - data collection and qualitative analysis
 
 2021-2024  
