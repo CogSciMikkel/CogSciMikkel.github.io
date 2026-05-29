@@ -38,7 +38,7 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 2024-Present  
 **BSc in Cognitive Science** (4th semester), Aarhus University  
-*Focus:* Human cognition and behaviour, machine learning, statistical modelling, Bayesian inference, and experimental design  
+*Focus:* Human cognition and behaviour, Bayesian inference and modelling, machine learning, and experimental design  
   
 *Top grades (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
   
@@ -63,7 +63,7 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 
 *Initially developed for Economics alumni, since expanded to all BSS programmes following positive reception from BSS leadership.*
 
-2023-Present  
+2023-2026  
 **Student Assistant**, Research Centre for Social Marginalisation, VIA University College
 
 - Research support across multiple interdisciplinary research centres and projects

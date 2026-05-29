@@ -118,6 +118,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#bss-alumni-career-tracker" id="toc-bss-alumni-career-tracker" class="nav-link active" data-scroll-target="#bss-alumni-career-tracker">BSS Alumni Career Tracker</a></li>
+  <li><a href="#interpersonal-synchrony-and-the-social-simon-effect" id="toc-interpersonal-synchrony-and-the-social-simon-effect" class="nav-link" data-scroll-target="#interpersonal-synchrony-and-the-social-simon-effect">Interpersonal Synchrony and the Social Simon Effect</a></li>
   <li><a href="#framing-and-decision-dynamics" id="toc-framing-and-decision-dynamics" class="nav-link" data-scroll-target="#framing-and-decision-dynamics">Framing and Decision Dynamics</a></li>
   <li><a href="#pain-tracking-app" id="toc-pain-tracking-app" class="nav-link" data-scroll-target="#pain-tracking-app">Pain Tracking App</a></li>
   <li><a href="#social-context-and-fear" id="toc-social-context-and-fear" class="nav-link" data-scroll-target="#social-context-and-fear">Social Context and Fear</a></li>
@@ -155,6 +156,15 @@ ul.task-list li input[type="checkbox"] {
 <p>The pipeline loads alumni from administrative data, runs automated Google searches, and sends results to an LLM via the OpenAI API for structured attribute extraction. When a search yields no result, the pipeline refines its queries and retries. All data lives in a PostgreSQL database on UCloud.</p>
 <p>The project started as a one-off analysis for Economics and Business Economics alumni and was expanded to all BSS programmes after positive reception from BSS leadership.</p>
 <p><em>Stack: R | Python | PostgreSQL | OpenAI API | UCloud</em></p>
+<hr>
+</section>
+<section id="interpersonal-synchrony-and-the-social-simon-effect" class="level2">
+<h2 class="anchored" data-anchor-id="interpersonal-synchrony-and-the-social-simon-effect">Interpersonal Synchrony and the Social Simon Effect</h2>
+<p><em>Tapping Together, Responding Apart: The Effect of Interpersonal Synchrony on the Social Simon Effect</em></p>
+<p><strong>2026 | Social and Cultural Dynamics | Group Project</strong></p>
+<p>We investigated whether interpersonal synchrony modulates the Social Simon Effect (SSE), the response conflict that emerges when two people share a go/no-go task. The question had not previously been tested empirically.</p>
+<p>I programmed the experimental procedure in PsychoPy and ran the full Bayesian analysis pipeline: specifying empirically grounded priors, verifying them through prior predictive simulation, fitting a GLMM via Hamiltonian MC, and evaluating model fit with posterior predictive checks. I also conducted a simulation-based parameter recovery test to assess statistical power. Results were inconclusive, which the power analysis attributed to the small sample size rather than a true null.</p>
+<p><em>Methods: Bayesian GLMM | PsychoPy | Prior and posterior predictive checks | Simulation-based power analysis | Reaction time analysis</em></p>
 <hr>
 </section>
 <section id="framing-and-decision-dynamics" class="level2">

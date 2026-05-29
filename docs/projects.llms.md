@@ -18,6 +18,20 @@ The project started as a one-off analysis for Economics and Business Economics a
 
 ------------------------------------------------------------------------
 
+## Interpersonal Synchrony and the Social Simon Effect
+
+*Tapping Together, Responding Apart: The Effect of Interpersonal Synchrony on the Social Simon Effect*
+
+**2026 \| Social and Cultural Dynamics \| Group Project**
+
+We investigated whether interpersonal synchrony modulates the Social Simon Effect (SSE), the response conflict that emerges when two people share a go/no-go task. The question had not previously been tested empirically.
+
+I programmed the experimental procedure in PsychoPy and ran the full Bayesian analysis pipeline: specifying empirically grounded priors, verifying them through prior predictive simulation, fitting a GLMM via Hamiltonian MC, and evaluating model fit with posterior predictive checks. I also conducted a simulation-based parameter recovery test to assess statistical power. Results were inconclusive, which the power analysis attributed to the small sample size rather than a true null.
+
+*Methods: Bayesian GLMM \| PsychoPy \| Prior and posterior predictive checks \| Simulation-based power analysis \| Reaction time analysis*
+
+------------------------------------------------------------------------
+
 ## Framing and Decision Dynamics
 
 *Same Options, Different Struggles: How Framing Affects Decision Dynamics*
