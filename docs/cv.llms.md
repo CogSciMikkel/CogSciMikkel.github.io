@@ -12,7 +12,7 @@ Aarhus University
 
 ## Profile
 
-I am a Cognitive Science student with a background in Political Science, a combination that gives me a strong foundation in causal inference and research design alongside computational and behavioural methods. I work with multimodal data such as mouse-tracking, heart-rate measurements, and self-report data, and I use R, Python, and React to turn research questions into robust analyses and digital solutions. I am a curious and collaborative colleague who communicates clearly and works well across disciplines.
+I am a Cognitive Science student with a background in Political Science, a combination that gives me a strong foundation in causal inference and research design alongside computational and behavioural methods. I work with multimodal data including EEG, fMRI, mouse-tracking, and heart-rate measurements, and I use R and Python to turn research questions into robust analyses and digital solutions. I am a curious and collaborative colleague who communicates clearly and works well across disciplines.
 
 ------------------------------------------------------------------------
 
@@ -20,10 +20,10 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 **Programming**
 
-- R, Python, Quarto
+- R, Python
 - PostgreSQL
 - React, HTML, CSS, JavaScript
-- Git, PsychoPy, UCloud, SurveyXact
+- Git, PsychoPy, UCloud, Quarto, SurveyXact
 
 **Languages**
 
@@ -38,9 +38,13 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 2024-Present  
 **BSc in Cognitive Science** (4th semester), Aarhus University  
-*Focus:* Human cognition and behaviour, Bayesian inference and modelling, machine learning, and experimental design  
+*Supplementary Subject:* Cultural Data Science (language, visual, and geospatial analytics)  
   
-*Top grades (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
+*Focus:* Human cognition and behaviour, Bayesian inference and modeling, machine learning, and experimental design  
+  
+*Graded courses - top grade (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
+  
+*Methods courses - pass/fail:* Bayesian Computational Modeling \| Multilevel Statistical Modeling and Machine Learning \| The General Linear Model \| Experimental Methods, Statistics, and Programming  
   
 Surprisingly, some of these courses resulted in projects I’m actually quite proud of… check them out [here](projects.llms.md)!
 
@@ -55,16 +59,16 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 ## Work Experience
 
 2025-Present  
-**Student Programmer**, Department of Economics and Business Economics, Aarhus University
+**Student Programmer**, [Department of Economics and Business Economics](https://econ.au.dk/), Aarhus University
 
-- Built a [full data pipeline](projects.llms.md) from scratch to generate insights into alumni career. trajectories where no prior data existed, using R, Python, PostgreSQL, LLM APIs, and UCloud
+- Built a [full data pipeline](projects.llms.md) from scratch to generate insights into alumni career outcomes where no prior data existed, using R, Python, PostgreSQL, LLM APIs, and UCloud
 - Iterative development focused on maintainability, reproducibility, and version control
 - Statistical analysis and visualisation of career trajectories to support decision-making for programme coordinators and prospective students alike
 
 *Initially developed for Economics alumni, since expanded to all BSS programmes following positive reception from BSS leadership.*
 
 2023-2026  
-**Student Assistant**, Research Centre for Social Marginalisation, VIA University College
+**Student Assistant**, [Research Centre for Social Marginalisation](https://en.via.dk/research/social-marginalisation) and [Research Centre for Citizen and Society Studies](https://en.via.dk/research/citizen-and-society-studies), VIA University College
 
 - Research support across multiple interdisciplinary research centres and projects
 - Independent data collection, analysis, and literature reviews
@@ -75,15 +79,15 @@ Surprisingly, some of these courses resulted in projects I’m actually quite pr
 *Contributed to a study on unemployment patterns among flexjob workers across Danish municipalities, including building a comparative dataset covering nearly all Danish job centres. The project resulted in a [published book](https://hansreitzel.dk/soeg/fleksjob-og-arbejdsmarkedet-(vitalsource)-e-bog-(vitalsource)-59997-9788702452952).*
 
 2024  
-**Personal Assistant**, Department of Society and Politics, Aalborg University  
+**Personal Assistant**, [Department of Society and Politics](https://www.en.society.aau.dk/), Aalborg University  
 Research assistance to a PhD project - data collection and qualitative analysis
 
 2021-2024  
-**Guest Speaker**, Højskolerne  
+**Guest Speaker**, [Højskolerne](https://www.hojskolerne.dk/andre-aktiviteter/tilbud-til-ungdomsuddannelser/book-et-oplaeg-om-at-gaa-paa-hoejskole/)  
 Public presentations in Danish and English, in-person and as webinars
 
 2019-2025  
-**Senior Mentor**, MentorDanmark  
+**Senior Mentor**, [MentorDanmark](https://mentordanmark.dk/)  
 One-on-one tutoring focused on clear communication and learning progression
 
 ------------------------------------------------------------------------
@@ -101,4 +105,4 @@ One-on-one tutoring focused on clear communication and learning progression
 
 ## About Me
 
-I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.
+I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also love to cook food and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.

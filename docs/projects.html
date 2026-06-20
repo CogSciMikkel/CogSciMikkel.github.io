@@ -118,6 +118,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#bss-alumni-career-tracker" id="toc-bss-alumni-career-tracker" class="nav-link active" data-scroll-target="#bss-alumni-career-tracker">BSS Alumni Career Tracker</a></li>
+  <li><a href="#n170-lateralisation-in-an-emotional-stroop-task" id="toc-n170-lateralisation-in-an-emotional-stroop-task" class="nav-link" data-scroll-target="#n170-lateralisation-in-an-emotional-stroop-task">N170 Lateralisation in an Emotional Stroop Task</a></li>
   <li><a href="#interpersonal-synchrony-and-the-social-simon-effect" id="toc-interpersonal-synchrony-and-the-social-simon-effect" class="nav-link" data-scroll-target="#interpersonal-synchrony-and-the-social-simon-effect">Interpersonal Synchrony and the Social Simon Effect</a></li>
   <li><a href="#framing-and-decision-dynamics" id="toc-framing-and-decision-dynamics" class="nav-link" data-scroll-target="#framing-and-decision-dynamics">Framing and Decision Dynamics</a></li>
   <li><a href="#pain-tracking-app" id="toc-pain-tracking-app" class="nav-link" data-scroll-target="#pain-tracking-app">Pain Tracking App</a></li>
@@ -152,10 +153,19 @@ ul.task-list li input[type="checkbox"] {
 <section id="bss-alumni-career-tracker" class="level2">
 <h2 class="anchored" data-anchor-id="bss-alumni-career-tracker">BSS Alumni Career Tracker</h2>
 <p><strong>2025-Present | Student Programmer | Aarhus University BSS</strong></p>
-<p>Before this project, BSS had no systematic record of where its graduates ended up. I built a generalizable and automated pipeline that constructs and maintains that record by collecting, extracting, and structuring career trajectory data for alumni across all BSS study programmes.</p>
-<p>The pipeline loads alumni from administrative data, runs automated Google searches, and sends results to an LLM via the OpenAI API for structured attribute extraction. When a search yields no result, the pipeline refines its queries and retries. All data lives in a PostgreSQL database on UCloud.</p>
+<p>BSS had no systematic record of its graduates’ career outcomes. I built a generalisable and automated pipeline that constructs and maintains that record by collecting, extracting, and structuring employment data for alumni across all BSS study programmes.</p>
+<p>The pipeline loads alumni from administrative data, runs automated online searches, and sends results to an LLM via the OpenAI API for structured attribute extraction. When a search yields no result, the pipeline refines its queries and retries. All data lives in a PostgreSQL database on UCloud.</p>
 <p>The project started as a one-off analysis for Economics and Business Economics alumni and was expanded to all BSS programmes after positive reception from BSS leadership.</p>
 <p><em>Stack: R | Python | PostgreSQL | OpenAI API | UCloud</em></p>
+<hr>
+</section>
+<section id="n170-lateralisation-in-an-emotional-stroop-task" class="level2">
+<h2 class="anchored" data-anchor-id="n170-lateralisation-in-an-emotional-stroop-task">N170 Lateralisation in an Emotional Stroop Task</h2>
+<p><em>Picking Sides: N170 Lateralisation in an Emotional Stroop Task</em></p>
+<p><strong>2026 | Cognitive Neuroscience | Group Project</strong></p>
+<p>We investigated whether task instructions modulate the hemispheric distribution of N170 congruency effects in an emotional Stroop task, where affective words were superimposed onto affective faces. The question was whether attending to one stimulus type drives the congruency effect of the other into its associated hemisphere.</p>
+<p>I contributed to the EEG preprocessing pipeline, analysis code, and data visualisation. We combined behavioural reaction time modeling with EEG amplitude analysis and fitted linear models to both data streams to assess whether congruency effects were lateralized differently across tasks.</p>
+<p><em>Methods: EEG | MNE-Python | Linear models | Reaction time analysis | Data visualisation</em></p>
 <hr>
 </section>
 <section id="interpersonal-synchrony-and-the-social-simon-effect" class="level2">

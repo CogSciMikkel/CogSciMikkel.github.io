@@ -8,13 +8,27 @@ A selection of my academic and professional projects
 
 **2025-Present \| Student Programmer \| Aarhus University BSS**
 
-Before this project, BSS had no systematic record of where its graduates ended up. I built a generalizable and automated pipeline that constructs and maintains that record by collecting, extracting, and structuring career trajectory data for alumni across all BSS study programmes.
+BSS had no systematic record of its graduates’ career outcomes. I built a generalisable and automated pipeline that constructs and maintains that record by collecting, extracting, and structuring employment data for alumni across all BSS study programmes.
 
-The pipeline loads alumni from administrative data, runs automated Google searches, and sends results to an LLM via the OpenAI API for structured attribute extraction. When a search yields no result, the pipeline refines its queries and retries. All data lives in a PostgreSQL database on UCloud.
+The pipeline loads alumni from administrative data, runs automated online searches, and sends results to an LLM via the OpenAI API for structured attribute extraction. When a search yields no result, the pipeline refines its queries and retries. All data lives in a PostgreSQL database on UCloud.
 
 The project started as a one-off analysis for Economics and Business Economics alumni and was expanded to all BSS programmes after positive reception from BSS leadership.
 
 *Stack: R \| Python \| PostgreSQL \| OpenAI API \| UCloud*
+
+------------------------------------------------------------------------
+
+## N170 Lateralisation in an Emotional Stroop Task
+
+*Picking Sides: N170 Lateralisation in an Emotional Stroop Task*
+
+**2026 \| Cognitive Neuroscience \| Group Project**
+
+We investigated whether task instructions modulate the hemispheric distribution of N170 congruency effects in an emotional Stroop task, where affective words were superimposed onto affective faces. The question was whether attending to one stimulus type drives the congruency effect of the other into its associated hemisphere.
+
+I contributed to the EEG preprocessing pipeline, analysis code, and data visualisation. We combined behavioural reaction time modeling with EEG amplitude analysis and fitted linear models to both data streams to assess whether congruency effects were lateralized differently across tasks.
+
+*Methods: EEG \| MNE-Python \| Linear models \| Reaction time analysis \| Data visualisation*
 
 ------------------------------------------------------------------------
 

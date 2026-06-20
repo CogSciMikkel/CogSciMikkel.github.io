@@ -1,5 +1,9 @@
 /* css styles */
 
+.header_link {
+    color: inherit;
+}
+
 code {
     color: #F3969A;
     border: 1px solid #F3969A;
