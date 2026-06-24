@@ -42,7 +42,7 @@ I am a Cognitive Science student with a background in Political Science, a combi
   
 *Focus:* Human cognition and behaviour, Bayesian inference and modeling, machine learning, and experimental design  
   
-*Graded courses - top grade (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
+*Graded courses - top grade (12):* Social and Cultural Dynamics \| Perception and Action \| Applied Cognitive Science \| Introduction to Cognitive Science  
   
 *Methods courses - pass/fail:* Bayesian Computational Modeling \| Multilevel Statistical Modeling and Machine Learning \| The General Linear Model \| Experimental Methods, Statistics, and Programming  
   
