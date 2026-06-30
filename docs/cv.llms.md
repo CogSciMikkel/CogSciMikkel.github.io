@@ -37,12 +37,12 @@ I am a Cognitive Science student with a background in Political Science, a combi
 ## Education
 
 2024-Present  
-**BSc in Cognitive Science** (4th semester), Aarhus University  
+**BSc in Cognitive Science** (5th semester), Aarhus University  
 *Supplementary Subject:* Cultural Data Science (language, visual, and geospatial analytics)  
   
 *Focus:* Human cognition and behaviour, Bayesian inference and modeling, machine learning, and experimental design  
   
-*Graded courses - top grade (12):* Social and Cultural Dynamics \| Perception and Action \| Applied Cognitive Science \| Introduction to Cognitive Science  
+*Graded courses - top grade (12):* Cognitive Neuroscience \| Social and Cultural Dynamics \| Perception and Action \| Applied Cognitive Science \| Introduction to Cognitive Science  
   
 *Methods courses - pass/fail:* Bayesian Computational Modeling \| Multilevel Statistical Modeling and Machine Learning \| The General Linear Model \| Experimental Methods, Statistics, and Programming  
   
@@ -105,4 +105,4 @@ One-on-one tutoring focused on clear communication and learning progression
 
 ## About Me
 
-I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also love to cook food and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.
+I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also love cooking food and tinkering with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.
