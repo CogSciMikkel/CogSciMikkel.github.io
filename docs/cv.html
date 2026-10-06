@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9c8f6917bb976eb1370e91c8fae1e261.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0c993683fdd6a26c1aa2f976085b22ef.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -158,9 +161,10 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="assets/icon.png" class="img-fluid" style="border-radius: 50%;;width:100.0%"></p>
 </div>
 </div>
+<hr>
 <section id="profile" class="level2">
 <h2 class="anchored" data-anchor-id="profile">Profile</h2>
-<p>I am a Cognitive Science student with a background in Political Science, a combination that gives me a strong foundation in causal inference and research design alongside computational and behavioural methods. I work with multimodal data including EEG, fMRI, mouse-tracking, and heart-rate measurements, and I use R and Python to turn research questions into robust analyses and digital solutions. I am a curious and collaborative colleague who communicates clearly and works well across disciplines.</p>
+<p>I build statistical models that answer questions about why people, i.e.&nbsp;lumps of <a href="https://web.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html">thinking meat</a>, behave the way they do. That curiosity has led me to Cognitive Science, where I’m learning to make sense of behavioural, neural, and natural language data. I’ve picked up Bayesian modelling, causal inference, and machine learning along the way, and I use those skills to make Danish NLP pipelines for research and to turn administrative records into career-outcome analyses for Aarhus BSS.</p>
 <hr>
 </section>
 <section id="skills" class="level2">
@@ -169,10 +173,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="column" style="width:50%;">
 <p><strong>Programming</strong></p>
 <ul>
-<li>R, Python</li>
+<li>R, Python <!-- some day I'll have the guts to add Stan... maybe after the Bachelor's thesis --></li>
 <li>PostgreSQL</li>
 <li>React, HTML, CSS, JavaScript</li>
-<li>Git, PsychoPy, UCloud, Quarto, SurveyXact</li>
+<li>Git, PsychoPy, UCloud, Quarto</li>
 </ul>
 </div><div class="column" style="width:50%;">
 <p><strong>Languages</strong></p>
@@ -192,12 +196,15 @@ ul.task-list li input[type="checkbox"] {
 <dt>2024-Present</dt>
 <dd>
 <strong>BSc in Cognitive Science</strong> (5th semester), Aarhus University<br>
-<em>Supplementary Subject:</em> Cultural Data Science (language, visual, and geospatial analytics)<br>
-<br> <em>Focus:</em> Human cognition and behaviour, Bayesian inference and modeling, machine learning, and experimental design<br>
+<!--    **Bachelor's Thesis:** *Attention is All You Need (But Don't Have)! Hierarchical Bayesian Signal Detection Models Might Reveal Attention Dysfunction in Attention Deficit Hyperactivity Disorder and Schizophrenia Spectrum Disorder*. One sentence on Bayesian simulation study using hierarchical SDT model, what it showed, why it mattered, and link to [project page](projects.qmd)!
+<br>--> <em>Supplementary Subject:</em> Cultural Data Science (language, visual, and geospatial analytics)<br>
+<br> <em>Focus:</em> Human cognition and behaviour, Bayesian inference and modelling, machine learning, and experimental design<br>
 <br> <em>Graded courses - top grade (12):</em> Cognitive Neuroscience | Social and Cultural Dynamics | Perception and Action | Applied Cognitive Science | Introduction to Cognitive Science<br>
-<br> <em>Methods courses - pass/fail:</em> Bayesian Computational Modeling | Multilevel Statistical Modeling and Machine Learning | The General Linear Model | Experimental Methods, Statistics, and Programming<br>
-<br> Surprisingly, some of these courses resulted in projects I’m actually quite proud of… check them out <a href="./projects.html">here</a>!
+<br> Surprisingly, some of these courses resulted in projects I’m quite proud of… check them out <a href="./projects.html">here</a>!
 </dd>
+</dl>
+<hr>
+<dl>
 <dt>2021-2024</dt>
 <dd>
 <strong>BSc in Political Science</strong>, Aarhus University<br>
@@ -209,52 +216,55 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="work-experience" class="level2">
 <h2 class="anchored" data-anchor-id="work-experience">Work Experience</h2>
-<!--
-2026-Present
-:   **Junior Data Scientist**, [Center for Humanities Computing](https://chc.au.dk/){.header_link}, Aarhus University
-
-    - Maintenance and development of [DaCy](https://github.com/centre-for-humanities-computing/DaCy), a Danish NLP pipeline built on spaCy
-    - Part of the [Danish Foundation Models initiative](https://chc.au.dk/research/danish-foundation-models-dfm), an open, sustainable, and inclusive approach to NLP development
-    - NLP model evaluation and refining
-
-    *Input an italicised note once I have actually achieved something... wrapping my head around the coffee machine doesn't count.*
--->
+<dl>
+<dt>2026-Present</dt>
+<dd>
+<strong>Junior Data Scientist</strong>, <a href="https://chc.au.dk/">Center for Humanities Computing</a>, Aarhus University
+<ul>
+<li>Trained and evaluated Danish NLP models for <a href="https://github.com/centre-for-humanities-computing/DaCy">DaCy</a>, a collection of state-of-the-art NLP pipelines for Danish, as part of the <a href="https://chc.au.dk/research/danish-foundation-models-dfm">Danish Foundation Models initiative</a>, an open, sustainable, and inclusive approach to NLP for Danish</li>
+<li>Built and debugged the data pipelines that prepare and validate Danish data for training</li>
+<li>Deployed ellf, a self-hosted Kubernetes NLP annotation platform, to support agentic work on DaCy <br> <br> <em>Contributed to the <a href="https://github.com/centre-for-humanities-computing/DaCy/blob/main/training_1.0.0/release_post/release_post.md">latest release</a> of DaCy</em></li>
+</ul>
+</dd>
+</dl>
+<hr>
 <dl>
 <dt>2025-Present</dt>
 <dd>
-<strong>Student Programmer</strong>, <a href="https://econ.au.dk/" class="header_link">Department of Economics and Business Economics</a>, Aarhus University
+<strong>Student Programmer</strong>, <a href="https://econ.au.dk/">Department of Economics and Business Economics</a>, Aarhus University
 <ul>
-<li>Built a <a href="./projects.html">full data pipeline</a> from scratch to generate insights into alumni career outcomes where no prior data existed, using R, Python, PostgreSQL, LLM APIs, and UCloud</li>
-<li>Iterative development focused on maintainability, reproducibility, and version control</li>
-<li>Statistical analysis and visualisation of career trajectories to support decision-making for programme coordinators and prospective students alike</li>
+<li>Built a <a href="./projects.html#alumni-career-outcomes-analysis-(llm-data-pipeline)">full data pipeline</a> from scratch to collect and categorise alumni employment data where none existed before</li>
+<li>Delivered statistical analyses and visualisations to give programme coordinators and prospective students a clear picture of career outcomes for each programme <br> <br> <em>Initially developed for Economics alumni, since expanded to all BSS study programmes following positive reception from faculty leadership</em></li>
 </ul>
-<em>Initially developed for Economics alumni, since expanded to all BSS programmes following positive reception from BSS leadership.</em>
 </dd>
+</dl>
+<hr>
+<dl>
 <dt>2023-2026</dt>
 <dd>
-<strong>Student Assistant</strong>, <a href="https://en.via.dk/research/social-marginalisation" class="header_link">Research Centre for Social Marginalisation</a> and <a href="https://en.via.dk/research/citizen-and-society-studies" class="header_link">Research Centre for Citizen and Society Studies</a>, VIA University College
+<strong>Student Assistant</strong>, <a href="https://en.via.dk/research/social-marginalisation">Research Centre for Social Marginalisation</a> and <a href="https://en.via.dk/research/citizen-and-society-studies">Research Centre for Citizen and Society Studies</a>, VIA University College
 <ul>
-<li>Research support across multiple interdisciplinary research centres and projects</li>
-<li>Independent data collection, analysis, and literature reviews</li>
-<li>Design of surveys and experiments in SurveyXact</li>
-<li>Collaboration on externally anchored projects with VIVE and Aalborg University</li>
-<li>Taught a researcher to use R from scratch</li>
+<li>Built a comparative dataset of register data and survey data covering nearly all Danish jobcentres for a study on unemployment patterns among flexjob workers</li>
+<li>Designed surveys and survey experiments in SurveyXact, and ran independent data collection, analysis, and literature reviews across several research projects</li>
+<li>Taught a researcher to use R from scratch <br> <br> <em>The flexjob project was published as a <a href="https://hansreitzel.dk/soeg/fleksjob-og-arbejdsmarkedet-(vitalsource)-e-bog-(vitalsource)-59997-9788702452952">book</a></em></li>
 </ul>
-<em>Contributed to a study on unemployment patterns among flexjob workers across Danish municipalities, including building a comparative dataset covering nearly all Danish job centres. The project resulted in a <a href="https://hansreitzel.dk/soeg/fleksjob-og-arbejdsmarkedet-(vitalsource)-e-bog-(vitalsource)-59997-9788702452952">published book</a>.</em>
 </dd>
+</dl>
+<hr>
+<dl>
 <dt>2024</dt>
 <dd>
-<strong>Personal Assistant</strong>, <a href="https://www.en.society.aau.dk/" class="header_link">Department of Society and Politics</a>, Aalborg University<br>
-Research assistance to a PhD project - data collection and qualitative analysis
+<strong>Personal Assistant</strong>, <a href="https://www.en.society.aau.dk/">Department of Society and Politics</a>, Aalborg University<br>
+Research assistance to a PhD project, data collection and qualitative analysis
 </dd>
 <dt>2021-2024</dt>
 <dd>
-<strong>Guest Speaker</strong>, <a href="https://www.hojskolerne.dk/andre-aktiviteter/tilbud-til-ungdomsuddannelser/book-et-oplaeg-om-at-gaa-paa-hoejskole/" class="header_link">Højskolerne</a><br>
+<strong>Guest Speaker</strong>, <a href="https://www.hojskolerne.dk/andre-aktiviteter/tilbud-til-ungdomsuddannelser/book-et-oplaeg-om-at-gaa-paa-hoejskole/">Højskolerne</a><br>
 Public presentations in Danish and English, in-person and as webinars
 </dd>
 <dt>2019-2025</dt>
 <dd>
-<strong>Senior Mentor</strong>, <a href="https://mentordanmark.dk/" class="header_link">MentorDanmark</a><br>
+<strong>Senior Mentor</strong>, <a href="https://mentordanmark.dk/">MentorDanmark</a><br>
 One-on-one tutoring focused on clear communication and learning progression
 </dd>
 </dl>
@@ -277,7 +287,7 @@ One-on-one tutoring focused on clear communication and learning progression
 </section>
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<p>I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also love cooking food and tinkering with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.</p>
+<p>I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the belief that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also love cooking food and tinkering with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.</p>
 
 
 </section>
