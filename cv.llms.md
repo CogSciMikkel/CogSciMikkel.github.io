@@ -10,9 +10,11 @@ Aarhus University
 
 ![](assets/icon.png)
 
+------------------------------------------------------------------------
+
 ## Profile
 
-I am a Cognitive Science student with a background in Political Science, a combination that gives me a strong foundation in causal inference and research design alongside computational and behavioural methods. I work with multimodal data such as mouse-tracking, heart-rate measurements, and self-report data, and I use R, Python, and React to turn research questions into robust analyses and digital solutions. I am a curious and collaborative colleague who communicates clearly and works well across disciplines.
+I build statistical models that answer questions about why people, i.e. lumps of [thinking meat](https://web.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html), behave the way they do. That curiosity has led me to Cognitive Science, where I’m learning to make sense of behavioural, neural, and natural language data. I’ve picked up Bayesian modelling, causal inference, and machine learning along the way, and I use those skills to make Danish NLP pipelines for research and to turn administrative records into career-outcome analyses for Aarhus BSS.
 
 ------------------------------------------------------------------------
 
@@ -23,7 +25,7 @@ I am a Cognitive Science student with a background in Political Science, a combi
 - R, Python
 - PostgreSQL
 - React, HTML, CSS, JavaScript
-- Git, PsychoPy, UCloud, SurveyXact
+- Git, PsychoPy, UCloud, Quarto
 
 **Languages**
 
@@ -36,54 +38,70 @@ I am a Cognitive Science student with a background in Political Science, a combi
 
 ## Education
 
-2024–Present  
-**BSc in Cognitive Science** (4th semester), Aarhus University  
-*Focus:* Statistics and data analysis, programming and data science, machine learning, neuroscience, experimental design, Bayesian modelling, human cognition and behaviour  
-  
-*Top grades (12):* Applied Cognitive Science \| Perception and Action \| Introduction to Cognitive Science  
-  
-Surprisingly, some of these courses resulted in projects I’m actually quite proud of… check them out [here](projects.llms.md)!
+2024-Present  
+**BSc in Cognitive Science** (5th semester), Aarhus University\
+*Supplementary Subject:* Cultural Data Science (language, visual, and geospatial analytics)\
+\
+*Focus:* Human cognition and behaviour, Bayesian inference and modelling, machine learning, and experimental design\
+\
+*Graded courses - top grade (12):* Cognitive Neuroscience \| Social and Cultural Dynamics \| Perception and Action \| Applied Cognitive Science \| Introduction to Cognitive Science\
+\
+Surprisingly, some of these courses resulted in projects I’m quite proud of… check them out [here](projects.llms.md)!
+
+------------------------------------------------------------------------
 
 2021-2024  
-**BSc in Political Science**, Aarhus University  
-*Focus:* Quantitative and qualitative methods, statistics and causal inference, data-driven analysis, political behaviour, international politics and political theory  
-  
+**BSc in Political Science**, Aarhus University\
+*Focus:* Causal inference, quantitative methods, and political behaviour\
+\
 *Top grades (12):* Methods II: Quantitative Methods \| International Politics \| Microeconomics \| Political Behaviour \| Political Sociology \| Political Philosophy
 
 ------------------------------------------------------------------------
 
 ## Work Experience
 
+2026-Present  
+**Junior Data Scientist**, [Center for Humanities Computing](https://chc.au.dk/), Aarhus University
+
+- Trained and evaluated Danish NLP models for [DaCy](https://github.com/centre-for-humanities-computing/DaCy), a collection of state-of-the-art NLP pipelines for Danish, as part of the [Danish Foundation Models initiative](https://chc.au.dk/research/danish-foundation-models-dfm), an open, sustainable, and inclusive approach to NLP for Danish
+- Built and debugged the data pipelines that prepare and validate Danish data for training
+- Deployed ellf, a self-hosted Kubernetes NLP annotation platform, to support agentic work on DaCy\
+  \
+  *Contributed to the [latest release](https://github.com/centre-for-humanities-computing/DaCy/blob/main/training_1.0.0/release_post/release_post.md) of DaCy*
+
+------------------------------------------------------------------------
+
 2025-Present  
-**Student Programmer**, Aarhus University
+**Student Programmer**, [Department of Economics and Business Economics](https://econ.au.dk/), Aarhus University
 
-- Built a [full data pipeline](projects.llms.md) from scratch to generate insights into alumni career. trajectories where no prior data existed, using R, Python, PostgreSQL, LLM APIs, and UCloud
-- Iterative development focused on maintainability, reproducibility, and version control
-- Statistical analysis and visualisation of career trajectories to support decision-making for programme coordinators and prospective students alike
+- Built a [full data pipeline](projects.llms.md#alumni-career-outcomes-analysis-(llm-data-pipeline)) from scratch to collect and categorise alumni employment data where none existed before
+- Delivered statistical analyses and visualisations to give programme coordinators and prospective students a clear picture of career outcomes for each programme\
+  \
+  *Initially developed for Economics alumni, since expanded to all BSS study programmes following positive reception from faculty leadership*
 
-*Initially developed for Economics alumni, since expanded to all BSS programmes following positive reception from BSS leadership.*
+------------------------------------------------------------------------
 
-2023-Present  
-**Student Assistant**, VIA University College
+2023-2026  
+**Student Assistant**, [Research Centre for Social Marginalisation](https://en.via.dk/research/social-marginalisation) and [Research Centre for Citizen and Society Studies](https://en.via.dk/research/citizen-and-society-studies), VIA University College
 
-- Research support across multiple interdisciplinary research centres and projects
-- Independent data collection, analysis, and literature reviews
-- Design of surveys and experiments in SurveyXact
-- Collaboration on externally anchored projects with VIVE and Aalborg University
-- Taught a researcher to use R from scratch
+- Built a comparative dataset of register data and survey data covering nearly all Danish jobcentres for a study on unemployment patterns among flexjob workers
+- Designed surveys and survey experiments in SurveyXact, and ran independent data collection, analysis, and literature reviews across several research projects
+- Taught a researcher to use R from scratch\
+  \
+  *The flexjob project was published as a [book](https://hansreitzel.dk/soeg/fleksjob-og-arbejdsmarkedet-(vitalsource)-e-bog-(vitalsource)-59997-9788702452952)*
 
-*Contributed to a study on unemployment patterns among flexjob workers across Danish municipalities, including building a comparative dataset covering nearly all Danish job centres. The project resulted in a [published book](https://hansreitzel.dk/soeg/fleksjob-og-arbejdsmarkedet-(vitalsource)-e-bog-(vitalsource)-59997-9788702452952).*
+------------------------------------------------------------------------
 
 2024  
-**Personal Assistant**, Aalborg University  
-Research assistance to a PhD project - data collection and qualitative analysis
+**Personal Assistant**, [Department of Society and Politics](https://www.en.society.aau.dk/), Aalborg University\
+Research assistance to a PhD project, data collection and qualitative analysis
 
 2021-2024  
-**Guest Speaker**, Højskolerne  
+**Guest Speaker**, [Højskolerne](https://www.hojskolerne.dk/andre-aktiviteter/tilbud-til-ungdomsuddannelser/book-et-oplaeg-om-at-gaa-paa-hoejskole/)\
 Public presentations in Danish and English, in-person and as webinars
 
 2019-2025  
-**Senior Mentor**, MentorDanmark  
+**Senior Mentor**, [MentorDanmark](https://mentordanmark.dk/)\
 One-on-one tutoring focused on clear communication and learning progression
 
 ------------------------------------------------------------------------
@@ -101,4 +119,4 @@ One-on-one tutoring focused on clear communication and learning progression
 
 ## About Me
 
-I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative process and the social aspect of making music with others. I read widely across fiction and non-fiction, driven by the idea that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also brew my own beer and tinker with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.
+I have played guitar since childhood. Although this has not made me famous yet, I still value both the creative and social aspects of making music. I read widely across fiction and non-fiction, driven by the belief that almost anything becomes fascinating once you understand it well enough. So far, this seems to hold true. I also love cooking food and tinkering with personal data science projects, both of which involve a whole lot of waiting around and only occasionally produce something worth sharing.
